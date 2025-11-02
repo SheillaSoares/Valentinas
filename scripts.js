@@ -25,16 +25,14 @@ document.addEventListener('DOMContentLoaded', () => {
         ],
         'bordados': [
             'bordados1.jpg',
-            'bordados2.jpg',
-            'bordados3.jpg',
-            'bordados4.jpg',
-            'bordados5.jpg',
+            'bordados2.jpg',           
+            'bordados4.jpg',      
             
             'bordados7.jpg',
             'bordados8.jpg',
             'bordados9.jpg',
             'bordados10.jpg',
-            'bordados11.jpg',
+            
             'bordados12.jpg',
             'bordados13.jpg'
         ],
@@ -46,9 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
           'decorativas1.jpg', 
             'dwcorativas2.jpg',
             'decorativas3.jpg',
-            'decorativas4.jpg',
-            'decorativas5.jpg', 
-            'decorativas6.jpg',  
+              
         ],
         'maternidade': [ 
             'kit maternidade1.jpg', 
