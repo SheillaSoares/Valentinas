@@ -43,7 +43,12 @@ document.addEventListener('DOMContentLoaded', () => {
            'consertos2.jpg' 
         ],
         'decorativas': [
-            
+          'decorativas1.jpg', 
+            'dwcorativas2.jpg',
+            'decorativas3.jpg',
+            'decorativas4.jpg',
+            'decorativas5.jpg', 
+            'decorativas6.jpg',  
         ],
         'maternidade': [ 
             'kit maternidade1.jpg', 
