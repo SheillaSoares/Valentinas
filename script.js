@@ -1,12 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     console.log('Site Valentina Mimos carregado com sucesso!');
 
-    /* ======================================= */
-    /* CONFIGURAÇÃO DE FOTOS POR SERVIÇO */
-    /* ======================================= */
-
-    // **IMPORTANTE: TROQUE OS NOMES DOS ARQUIVOS PELAS SUAS FOTOS REAIS!**
-    // Se um serviço não tiver fotos, deixe o array vazio: []
+   
     const servicePhotos = {
         'roupas': [
             'medida1.jpg',
@@ -26,13 +21,11 @@ document.addEventListener('DOMContentLoaded', () => {
         'bordados': [
             'bordados1.jpg',
             'bordados2.jpg',           
-            'bordados4.jpg',      
-            
+            'bordados4.jpg',     
             'bordados7.jpg',
             'bordados8.jpg',
             'bordados9.jpg',
-            'bordados10.jpg',
-            
+            'bordados10.jpg',            
             'bordados12.jpg',
             'bordados13.jpg'
         ],
